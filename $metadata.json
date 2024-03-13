@@ -1,0 +1,13 @@
+{
+  "tokenSetOrder": [
+    "core",
+    "CoBank/Light",
+    "CoBank/Dark",
+    "light",
+    "dark",
+    "theme",
+    "Bootstrap/Light",
+    "Bootstrap/Dark",
+    "Component/Button"
+  ]
+}

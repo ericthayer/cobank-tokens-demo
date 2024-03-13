@@ -1,0 +1,820 @@
+{
+  "color": {
+    "secondary": {
+      "value": "{color.brand.green-dark}",
+      "type": "color",
+      "parent": "CoBank (primitives)/Light",
+      "description": ""
+    },
+    "primary": {
+      "value": "{color.brand.blue}",
+      "type": "color",
+      "parent": "CoBank (primitives)/Light",
+      "description": ""
+    },
+    "neutral": {
+      "0": {
+        "value": "#ffffff",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "10": {
+        "value": "#f7f7f7",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "20": {
+        "value": "#f0f2f4",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "30": {
+        "value": "#e8eaee",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "40": {
+        "value": "#dce0e5",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "50": {
+        "value": "#c1c7cd",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "60": {
+        "value": "#babfc5",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "70": {
+        "value": "#9aa1a7",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "80": {
+        "value": "#838c96",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "90": {
+        "value": "#4e555c",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "100": {
+        "value": "#3f454b",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      }
+    },
+    "state": {
+      "success": {
+        "value": "#1e6619",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "warning": {
+        "value": "{color.brand.yellow}",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "danger": {
+        "value": "#b01717",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "info": {
+        "value": "#86cff9",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "ghost": {
+        "value": "#ffffff03",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      }
+    },
+    "brand": {
+      "yellow": {
+        "value": "#ffc131",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "blue": {
+        "value": "#005288",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "green-dark": {
+        "value": "#387c2b",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "gray": {
+        "value": "#807f83",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "green-light": {
+        "value": "#65b360",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "blue-light": {
+        "value": "#a1d6f4",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "blue-gray-light": {
+        "value": "#e2e9ee",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "blue-gray-dark": {
+        "value": "#bbccd7",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "orange": {
+        "value": "#ffba31",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "earth-brown": {
+        "value": "#f1c485",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "cream": {
+        "value": "#fff6dc",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "gray-light": {
+        "value": "#f8f9fa",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "blue-gray-soft": {
+        "value": "#edf3f7",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "blue-dark": {
+        "value": "#00395f",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      }
+    },
+    "accent": {
+      "value": "{color.brand.yellow}",
+      "type": "color",
+      "parent": "CoBank (primitives)/Light",
+      "description": ""
+    },
+    "light": {
+      "value": "{color.neutral.10}",
+      "type": "color",
+      "parent": "CoBank (primitives)/Light",
+      "description": ""
+    },
+    "dark": {
+      "value": "#272c2f",
+      "type": "color",
+      "parent": "CoBank (primitives)/Light",
+      "description": ""
+    },
+    "grayscale": {
+      "dark": {
+        "value": "{color.neutral.80}",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "medium": {
+        "value": "{color.neutral.60}",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "base": {
+        "value": "{color.neutral.40}",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "light": {
+        "value": "{color.neutral.20}",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "darker": {
+        "value": "{color.neutral.100}",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      }
+    },
+    "dark-alpha-50": {
+      "value": "#272c2f80",
+      "type": "color",
+      "parent": "CoBank (primitives)/Light",
+      "description": ""
+    },
+    "dark-alpha-25": {
+      "value": "#272c2f40",
+      "type": "color",
+      "parent": "CoBank (primitives)/Light",
+      "description": ""
+    },
+    "dark-alpha-10": {
+      "value": "#272c2f1a",
+      "type": "color",
+      "parent": "CoBank (primitives)/Light",
+      "description": ""
+    },
+    "light-alpha-50": {
+      "value": "#f7f7f780",
+      "type": "color",
+      "parent": "CoBank (primitives)/Light",
+      "description": ""
+    },
+    "light-alpha-25": {
+      "value": "#f7f7f740",
+      "type": "color",
+      "parent": "CoBank (primitives)/Light",
+      "description": ""
+    },
+    "light-alpha-10": {
+      "value": "#f7f7f71a",
+      "type": "color",
+      "parent": "CoBank (primitives)/Light",
+      "description": ""
+    },
+    "black": {
+      "value": "#0c0c0c",
+      "type": "color",
+      "parent": "CoBank (primitives)/Light",
+      "description": ""
+    },
+    "white": {
+      "value": "#fcfcfc",
+      "type": "color",
+      "parent": "CoBank (primitives)/Light",
+      "description": ""
+    }
+  },
+  "background": {
+    "dark": {
+      "value": "{color.dark}",
+      "type": "color",
+      "parent": "CoBank (primitives)/Light",
+      "description": ""
+    },
+    "base": {
+      "value": "{color.light}",
+      "type": "color",
+      "parent": "CoBank (primitives)/Light",
+      "description": ""
+    },
+    "blue-gray-light": {
+      "value": "{color.brand.blue-gray-light}",
+      "type": "color",
+      "parent": "CoBank (primitives)/Light",
+      "description": ""
+    },
+    "blue-gray-dark": {
+      "value": "{color.brand.blue-gray-dark}",
+      "type": "color",
+      "parent": "CoBank (primitives)/Light",
+      "description": ""
+    },
+    "light": {
+      "value": "{color.white}",
+      "type": "color",
+      "parent": "CoBank (primitives)/Light",
+      "description": ""
+    },
+    "blue": {
+      "value": "{color.brand.blue-light}",
+      "type": "color",
+      "parent": "CoBank (primitives)/Light",
+      "description": ""
+    },
+    "success": {
+      "value": "{color.state.success}",
+      "type": "color",
+      "parent": "CoBank (primitives)/Light",
+      "description": ""
+    },
+    "warning": {
+      "value": "{color.state.warning}",
+      "type": "color",
+      "parent": "CoBank (primitives)/Light",
+      "description": ""
+    },
+    "danger": {
+      "value": "{color.state.danger}",
+      "type": "color",
+      "parent": "CoBank (primitives)/Light",
+      "description": ""
+    },
+    "info": {
+      "value": "{color.state.info}",
+      "type": "color",
+      "parent": "CoBank (primitives)/Light",
+      "description": ""
+    },
+    "blue-gray-soft": {
+      "value": "{color.brand.blue-gray-soft}",
+      "type": "color",
+      "parent": "CoBank (primitives)/Light",
+      "description": ""
+    },
+    "data": {
+      "value": "{color.neutral.0}",
+      "type": "color",
+      "parent": "CoBank (primitives)/Light",
+      "description": ""
+    }
+  },
+  "text": {
+    "color": {
+      "body": {
+        "value": "{color.grayscale.darker}",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "headline": {
+        "value": "{color.dark}",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "label": {
+        "value": "{color.neutral.90}",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "primary": {
+        "value": "{color.primary}",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "secondary": {
+        "value": "{color.secondary}",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "success": {
+        "value": "{color.state.success}",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "warning": {
+        "value": "{color.state.warning}",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "danger": {
+        "value": "{color.state.danger}",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "info": {
+        "value": "{color.state.info}",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      }
+    },
+    "link": {
+      "color": {
+        "value": "#0074c2",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      }
+    }
+  },
+  "border": {
+    "color": {
+      "light": {
+        "value": "{color.light}",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "primary": {
+        "value": "{color.primary}",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "dark": {
+        "value": "{color.dark}",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "secondary": {
+        "value": "{color.secondary}",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "base": {
+        "value": "{color.neutral.40}",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "success": {
+        "value": "{color.state.success}",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "warning": {
+        "value": "{color.state.warning}",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "danger": {
+        "value": "{color.state.danger}",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "info": {
+        "value": "{color.state.info}",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "soft": {
+        "value": "{color.neutral.30}",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "hard": {
+        "value": "{color.neutral.60}",
+        "type": "color",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      }
+    },
+    "width": {
+      "0": {
+        "value": "{size.0}",
+        "type": "dimension",
+        "parent": "CoBank (primitives)/Light",
+        "description": "border-width: 0px"
+      },
+      "1": {
+        "value": "{size.1}",
+        "type": "dimension",
+        "parent": "CoBank (primitives)/Light",
+        "description": "border-width: 1px"
+      },
+      "2": {
+        "value": "{size.2}",
+        "type": "dimension",
+        "parent": "CoBank (primitives)/Light",
+        "description": "border-width: 2px"
+      },
+      "3": {
+        "value": "0.1875rem",
+        "type": "dimension",
+        "parent": "CoBank (primitives)/Light",
+        "description": "border-width: 3px"
+      }
+    }
+  },
+  "font": {
+    "label": {
+      "value": "sans-serif",
+      "type": "text",
+      "parent": "CoBank (primitives)/Light",
+      "description": ""
+    },
+    "cobank-font-sans-serif": {
+      "value": "Arimo",
+      "type": "text",
+      "parent": "CoBank (primitives)/Light",
+      "description": ""
+    },
+    "cobank-font-headline": {
+      "value": "Trade Gothic",
+      "type": "text",
+      "parent": "CoBank (primitives)/Light",
+      "description": ""
+    },
+    "cobank-font-ui": {
+      "value": "Inter",
+      "type": "text",
+      "parent": "CoBank (primitives)/Light",
+      "description": ""
+    }
+  },
+  "radius": {
+    "0": {
+      "value": "{size.0}",
+      "type": "dimension",
+      "parent": "CoBank (primitives)/Light",
+      "description": "border-radius: 0px"
+    },
+    "lg": {
+      "value": "{size.5}",
+      "type": "dimension",
+      "parent": "CoBank (primitives)/Light",
+      "description": ".5rem (8px)"
+    },
+    "xl": {
+      "value": "{size.8}",
+      "type": "dimension",
+      "parent": "CoBank (primitives)/Light",
+      "description": "1rem (16px)"
+    },
+    "sm": {
+      "value": "{size.3}",
+      "type": "dimension",
+      "parent": "CoBank (primitives)/Light",
+      "description": ".25rem (4px)"
+    },
+    "base": {
+      "value": "{size.4}",
+      "type": "dimension",
+      "parent": "CoBank (primitives)/Light",
+      "description": ".375rem (6px)"
+    },
+    "xxl": {
+      "value": "{size.11}",
+      "type": "dimension",
+      "parent": "CoBank (primitives)/Light",
+      "description": "2rem (32px)"
+    },
+    "2xl": {
+      "value": "{size.14}",
+      "type": "dimension",
+      "parent": "CoBank (primitives)/Light",
+      "description": "4rem (64px)"
+    },
+    "pill": {
+      "value": "50rem",
+      "type": "dimension",
+      "parent": "CoBank (primitives)/Light",
+      "description": "50rem (800px)"
+    }
+  },
+  "size": {
+    "0": {
+      "value": "0rem",
+      "type": "dimension",
+      "parent": "CoBank (primitives)/Light",
+      "description": ""
+    },
+    "1": {
+      "value": "0.0625rem",
+      "type": "dimension",
+      "parent": "CoBank (primitives)/Light",
+      "description": "1px"
+    },
+    "2": {
+      "value": "0.125rem",
+      "type": "dimension",
+      "parent": "CoBank (primitives)/Light",
+      "description": ""
+    },
+    "3": {
+      "value": "0.25rem",
+      "type": "dimension",
+      "parent": "CoBank (primitives)/Light",
+      "description": ".25rem"
+    },
+    "4": {
+      "value": "0.375rem",
+      "type": "dimension",
+      "parent": "CoBank (primitives)/Light",
+      "description": ""
+    },
+    "5": {
+      "value": "0.5rem",
+      "type": "dimension",
+      "parent": "CoBank (primitives)/Light",
+      "description": ""
+    },
+    "6": {
+      "value": "0.625rem",
+      "type": "dimension",
+      "parent": "CoBank (primitives)/Light",
+      "description": ""
+    },
+    "7": {
+      "value": "0.75rem",
+      "type": "dimension",
+      "parent": "CoBank (primitives)/Light",
+      "description": ""
+    },
+    "8": {
+      "value": "1rem",
+      "type": "dimension",
+      "parent": "CoBank (primitives)/Light",
+      "description": ""
+    },
+    "9": {
+      "value": "1.25rem",
+      "type": "dimension",
+      "parent": "CoBank (primitives)/Light",
+      "description": ""
+    },
+    "10": {
+      "value": "1.5rem",
+      "type": "dimension",
+      "parent": "CoBank (primitives)/Light",
+      "description": ""
+    },
+    "11": {
+      "value": "2rem",
+      "type": "dimension",
+      "parent": "CoBank (primitives)/Light",
+      "description": ""
+    },
+    "12": {
+      "value": "2.5rem",
+      "type": "dimension",
+      "parent": "CoBank (primitives)/Light",
+      "description": ""
+    },
+    "13": {
+      "value": "3rem",
+      "type": "dimension",
+      "parent": "CoBank (primitives)/Light",
+      "description": ""
+    },
+    "14": {
+      "value": "4rem",
+      "type": "dimension",
+      "parent": "CoBank (primitives)/Light",
+      "description": ""
+    },
+    "15": {
+      "value": "5rem",
+      "type": "dimension",
+      "parent": "CoBank (primitives)/Light",
+      "description": ""
+    }
+  },
+  "breakpoint": {
+    "size": {
+      "sm": {
+        "value": "36rem",
+        "type": "dimension",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "md": {
+        "value": "48rem",
+        "type": "dimension",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "lg": {
+        "value": "62rem",
+        "type": "dimension",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "xl": {
+        "value": "75rem",
+        "type": "dimension",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "xxl": {
+        "value": "87.5rem",
+        "type": "dimension",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "xs": {
+        "value": "25rem",
+        "type": "dimension",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "wide": {
+        "value": "125rem",
+        "type": "dimension",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      }
+    },
+    "layout": {
+      "mobile": {
+        "value": "24.375rem",
+        "type": "dimension",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "tablet": {
+        "value": "52.125rem",
+        "type": "dimension",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "desktop": {
+        "value": "90rem",
+        "type": "dimension",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      },
+      "widescreen": {
+        "value": "{breakpoint.size.wide}",
+        "type": "dimension",
+        "parent": "CoBank (primitives)/Light",
+        "description": ""
+      }
+    }
+  },
+  "spacing": {
+    "0": {
+      "value": "{size.0}",
+      "type": "dimension",
+      "parent": "CoBank (primitives)/Light",
+      "description": ""
+    },
+    "1": {
+      "value": "{size.3}",
+      "type": "dimension",
+      "parent": "CoBank (primitives)/Light",
+      "description": ".25rem"
+    },
+    "2": {
+      "value": "{size.5}",
+      "type": "dimension",
+      "parent": "CoBank (primitives)/Light",
+      "description": ".5rem"
+    },
+    "3": {
+      "value": "{size.8}",
+      "type": "dimension",
+      "parent": "CoBank (primitives)/Light",
+      "description": "1rem"
+    },
+    "4": {
+      "value": "{size.10}",
+      "type": "dimension",
+      "parent": "CoBank (primitives)/Light",
+      "description": "1.5rem"
+    },
+    "5": {
+      "value": "{size.13}",
+      "type": "dimension",
+      "parent": "CoBank (primitives)/Light",
+      "description": "3rem"
+    }
+  }
+}
