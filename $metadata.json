@@ -3,11 +3,11 @@
     "core",
     "light",
     "dark",
-    "theme",
-    "CoBank (primitives)/Light",
-    "CoBank (primitives)/Dark",
-    "Theme (bootstrap)/Light",
-    "Theme (bootstrap)/Dark",
-    "Component/Mode 1"
+    "CoBank/Dark",
+    "CoBank/Light",
+    "Bootstrap/Dark",
+    "Bootstrap/Light",
+    "Component/Mode 1",
+    "Component/Button"
   ]
 }
