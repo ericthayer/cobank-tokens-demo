@@ -1,0 +1,1730 @@
+{
+  "colors": {
+    "bs-blue": {
+      "value": "{colors.blue.80}",
+      "type": "color",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    },
+    "bs-indigo": {
+      "value": "#6610f2",
+      "type": "color",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    },
+    "bs-purple": {
+      "value": "#6f42c1",
+      "type": "color",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    },
+    "bs-white": {
+      "value": "{colors.theme.white}",
+      "type": "color",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    },
+    "bs-red": {
+      "value": "#dc3545",
+      "type": "color",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    },
+    "bs-orange": {
+      "value": "#fd7e14",
+      "type": "color",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    },
+    "bs-yellow": {
+      "value": "#ffc107",
+      "type": "color",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    },
+    "bs-green": {
+      "value": "#198754",
+      "type": "color",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    },
+    "bs-teal": {
+      "value": "#20c997",
+      "type": "color",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    },
+    "bs-cyan": {
+      "value": "#0dcaf0",
+      "type": "color",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    },
+    "neutral": {
+      "bs-gray": {
+        "value": "#6c757d",
+        "type": "color",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "bs-gray-dark": {
+        "value": "#343a40",
+        "type": "color",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "bs-gray-100": {
+        "value": "#f8f9fa",
+        "type": "color",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "bs-gray-200": {
+        "value": "#e9ecef",
+        "type": "color",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "bs-gray-300": {
+        "value": "#dee2e6",
+        "type": "color",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "bs-gray-400": {
+        "value": "#ced4da",
+        "type": "color",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "bs-gray-500": {
+        "value": "#adb5bd",
+        "type": "color",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "bs-gray-600": {
+        "value": "{colors.neutral.bs-gray}",
+        "type": "color",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "bs-gray-700": {
+        "value": "#495057",
+        "type": "color",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "bs-gray-800": {
+        "value": "#343a40",
+        "type": "color",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "bs-gray-900": {
+        "value": "#212529",
+        "type": "color",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      }
+    },
+    "theme": {
+      "primary": {
+        "bs-primary": {
+          "value": "{colors.theme.primary}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-primary-bg-subtle": {
+          "value": "{colors.blue.20}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-primary-border-subtle": {
+          "value": "{colors.blue.40}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-primary-text-emphasis": {
+          "value": "{colors.blue.100}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-primary-rgb": {
+          "value": "0, 82, 136",
+          "type": "text",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        }
+      },
+      "secondary": {
+        "bs-secondary": {
+          "value": "{colors.grayscale.dark}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-secondary-bg-subtle": {
+          "value": "#e2e3e5",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-secondary-border-subtle": {
+          "value": "#c4c8cb",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-secondary-text-emphasis": {
+          "value": "#2b2f32",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-secondary-rgb": {
+          "value": "226, 233, 238",
+          "type": "text",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        }
+      },
+      "success": {
+        "bs-success": {
+          "value": "{colors.state.success}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-success-bg-subtle": {
+          "value": "#d8f4d7",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-success-border-subtle": {
+          "value": "#7cc194",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-success-text-subtle": {
+          "value": "#10450d",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-success-rgb": {
+          "value": "30, 102, 25",
+          "type": "text",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        }
+      },
+      "info": {
+        "bs-info": {
+          "value": "{colors.state.info}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-info-bg-subtle": {
+          "value": "#e8f5fc",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-info-border-subtle": {
+          "value": "#9fdcff",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-info-text-emphasis": {
+          "value": "#003452",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-info-rgb": {
+          "value": "134, 207, 249",
+          "type": "text",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        }
+      },
+      "warning": {
+        "bs-warning": {
+          "value": "{colors.state.warning}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-warning-bg-subtle": {
+          "value": "#ffebb2",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-warning-border-subtle": {
+          "value": "#eaca81",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-warning-text-emphasis": {
+          "value": "#493204",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-warning-rgb": {
+          "value": "255, 193, 49",
+          "type": "text",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        }
+      },
+      "danger": {
+        "bs-danger": {
+          "value": "{colors.state.danger}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-danger-bg-subtle": {
+          "value": "#f9dcdc",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-danger-border-subtle": {
+          "value": "#f1aeb5",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-danger-text-emphasis": {
+          "value": "#5a0c0c",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-danger-rgb": {
+          "value": "176, 23, 23",
+          "type": "text",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        }
+      },
+      "light": {
+        "bs-light": {
+          "value": "{colors.neutral.bs-gray-100}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-light-bg-subtle": {
+          "value": "#fcfcfd",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-light-border-subtle": {
+          "value": "{colors.neutral.bs-gray-200}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-light-text-emphasis": {
+          "value": "{colors.neutral.bs-gray-700}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-light-rgb": {
+          "value": "{colors.neutral.bs-gray-100}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": "rgb(248, 249, 250)"
+        }
+      },
+      "dark": {
+        "bs-dark": {
+          "value": "{colors.neutral.bs-gray-900}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-dark-bg-subtle": {
+          "value": "{colors.neutral.bs-gray-400}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-dark-border-subtle": {
+          "value": "{colors.neutral.bs-gray-500}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-dark-text-emphasis": {
+          "value": "{colors.neutral.bs-gray-700}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-dark-rgb": {
+          "value": "{colors.neutral.bs-gray-900}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": "rgb(33, 37, 41)"
+        }
+      },
+      "tertiary": {
+        "bs-tertiary-bg": {
+          "value": "{colors.theme.light.bs-light}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-tertiary-color": {
+          "value": "{colors.theme.dark.bs-dark}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-tertiary-bg-rgb": {
+          "value": "{colors.theme.light.bs-light-rgb}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": "rgb(248, 249, 250)"
+        },
+        "bs-tertiary-color-rgb": {
+          "value": "{colors.theme.dark.bs-dark}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": "rgb(33, 37, 41)"
+        }
+      },
+      "emphasis": {
+        "bs-emphasis-color": {
+          "value": "{colors.bs-black}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-emphasis-color-rgb": {
+          "value": "{colors.bs-black-rgb}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": "rgb(12, 12, 12)"
+        }
+      }
+    },
+    "bs-pink": {
+      "value": "#d63384",
+      "type": "color",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    },
+    "bs-black": {
+      "value": "{colors.theme.white}",
+      "type": "color",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    },
+    "bs-black-rgb": {
+      "value": "{colors.theme.black}",
+      "type": "color",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": "rgb(12, 12, 12)"
+    },
+    "bs-white-rgb": {
+      "value": "{colors.theme.white}",
+      "type": "color",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": "rgba(12, 12, 12, 0.5)"
+    }
+  },
+  "components": {
+    "button": {
+      "bs-btn-color": {
+        "value": "{body.bs-body-color}",
+        "type": "color",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "bs-btn-bg": {
+        "value": "#00000000",
+        "type": "color",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "bs-btn-border-color": {
+        "value": "#00000000",
+        "type": "color",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "bs-btn-hover-border-color": {
+        "value": "#00000000",
+        "type": "color",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "primary": {
+        "bs-btn-bg": {
+          "value": "{colors.theme.primary.bs-primary}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-btn-color": {
+          "value": "{colors.bs-white}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-btn-hover-bg": {
+          "value": "{colors.blue.70}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-btn-hover-border-color": {
+          "value": "{colors.blue.70}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-btn-hover-color": {
+          "value": "{colors.bs-white}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-btn-active-color": {
+          "value": "{colors.bs-white}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-btn-disabled-color": {
+          "value": "{colors.bs-white}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-btn-focus-border-color": {
+          "value": "{colors.blue.100}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-btn-active-bg": {
+          "value": "{colors.blue.100}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-btn-active-border-color": {
+          "value": "{colors.blue.100}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-btn-disabled-bg": {
+          "value": "{colors.blue.100}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-btn-disabled-border-color": {
+          "value": "{colors.blue.100}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-btn-border-color": {
+          "value": "{colors.theme.primary.bs-primary}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-btn-focus-box-shadow": {
+          "value": "0 0 0 0.25rem var(--cobank-primary-blue-dark)",
+          "type": "text",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-btn-focus-shadow-rgb": {
+          "value": "49, 132, 253",
+          "type": "text",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-btn-active-shadow": {
+          "value": "inset 0 3px 5px rgba(0, 0, 0, .125)",
+          "type": "text",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        }
+      },
+      "secondary": {
+        "bs-btn-bg": {
+          "value": "{colors.theme.secondary.bs-secondary}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-btn-color": {
+          "value": "{colors.theme.primary.bs-primary}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-btn-hover-bg": {
+          "value": "{colors.neutral.bs-gray-600}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-btn-hover-border-color": {
+          "value": "{colors.neutral.bs-gray-600}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-btn-hover-color": {
+          "value": "{colors.bs-white}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-btn-focus-border-color": {
+          "value": "{colors.neutral.bs-gray-700}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-btn-active-bg": {
+          "value": "{colors.neutral.bs-gray-700}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-btn-active-border-color": {
+          "value": "{colors.neutral.bs-gray-700}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-btn-active-color": {
+          "value": "{colors.bs-white}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-btn-disabled-bg": {
+          "value": "{colors.neutral.bs-gray}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-btn-disabled-border-color": {
+          "value": "{colors.neutral.bs-gray}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-btn-disabled-color": {
+          "value": "{colors.bs-white}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-btn-border-color": {
+          "value": "{colors.neutral.bs-gray-400}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-btn-focus-box-shadow": {
+          "value": "0 0 0 0.25rem rgba(255, 255, 255, 0.2)",
+          "type": "text",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-btn-focus-shadow-rgb": {
+          "value": "130, 138, 145",
+          "type": "text",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-btn-active-shadow": {
+          "value": "inset 0 3px 5px rgba(0, 0, 0, .125)",
+          "type": "text",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        }
+      },
+      "bs-btn-box-shadow": {
+        "value": "inset 0 1px 0 rgba(255, 255, 255, .15), 0 1px 1px rgba(0, 0, 0, .075)",
+        "type": "text",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "bs-btn-font-family": {
+        "value": "{font.cobank-font-ui}",
+        "type": "text",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "bs-btn-focus-box-shadow": {
+        "value": "0 0 0 .25rem rgba(var(--bs-btn-focus-shadow-rgb), .5)",
+        "type": "text",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "bs-btn-padding-y": {
+        "value": "{size.4}",
+        "type": "dimension",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "bs-btn-padding-x": {
+        "value": "{size.7}",
+        "type": "dimension",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "bs-btn-border-width": {
+        "value": "{border.width.1}",
+        "type": "dimension",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "bs-btn-border-radius": {
+        "value": "{radius.base}",
+        "type": "dimension",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "bs-btn-disabled-opacity": {
+        "value": "0.04062499850988388rem",
+        "type": "dimension",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "bs-btn-font-size": {
+        "value": "{size.8}",
+        "type": "dimension",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": "1rem"
+      },
+      "bs-btn-font-weight": {
+        "value": "25rem",
+        "type": "dimension",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "bs-btn-line-height": {
+        "value": "0.09375rem",
+        "type": "dimension",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "large": {
+        "bs-btn-padding-y": {
+          "value": "{spacing.2}",
+          "type": "dimension",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-btn-padding-x": {
+          "value": "{spacing.3}",
+          "type": "dimension",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-btn-font-size": {
+          "value": "{size.9}",
+          "type": "dimension",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": "1.2rem (20px)"
+        },
+        "bs-btn-border-radius": {
+          "value": "{radius.lg}",
+          "type": "dimension",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": "1.2rem (20px)"
+        }
+      },
+      "small": {
+        "bs-btn-border-radius": {
+          "value": "{radius.sm}",
+          "type": "dimension",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": "1.2rem (20px)"
+        },
+        "bs-btn-font-size": {
+          "value": "0.875rem",
+          "type": "dimension",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ".875rem (14px)"
+        },
+        "bs-btn-padding-y": {
+          "value": "{spacing.1}",
+          "type": "dimension",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-btn-padding-x": {
+          "value": "{spacing.2}",
+          "type": "dimension",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        }
+      }
+    },
+    "table": {
+      "bs-table-color-type": {
+        "value": "{components.table.bs-table-color}",
+        "type": "color",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "bs-table-bg-type": {
+        "value": "{components.table.bs-table-bg}",
+        "type": "color",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "bs-table-color-state": {
+        "value": "{components.table.bs-table-color}",
+        "type": "color",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "bs-table-bg-state": {
+        "value": "{components.table.bs-table-bg}",
+        "type": "color",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "bs-table-color": {
+        "value": "{colors.theme.emphasis.bs-emphasis-color}",
+        "type": "color",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "bs-table-bg": {
+        "value": "{body.bs-body-bg}",
+        "type": "color",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "bs-table-border-color": {
+        "value": "{border.bs-border-color}",
+        "type": "color",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "bs-table-striped-color": {
+        "value": "{colors.theme.emphasis.bs-emphasis-color}",
+        "type": "color",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "bs-table-active-bg": {
+        "value": "#0c0c0c00",
+        "type": "color",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": "rgba(12, 12, 12, 0.1)"
+      },
+      "bs-table-hover-color": {
+        "value": "{colors.theme.emphasis.bs-emphasis-color}",
+        "type": "color",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "bs-table-hover-bg": {
+        "value": "#0c0c0c00",
+        "type": "color",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": "rgba(12, 12, 12, .075)"
+      },
+      "primary": {
+        "bs-table-color": {
+          "value": "{colors.bs-black}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-active-bg": {
+          "value": "#bacbe6",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-active-color": {
+          "value": "{colors.bs-black}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-hover-color": {
+          "value": "{colors.bs-black}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-hover-bg": {
+          "value": "#bfd1ec",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-bg": {
+          "value": "{colors.theme.primary.bs-primary-bg-subtle}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-border-color": {
+          "value": "#a6b5cc",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-striped-bg": {
+          "value": "#c5d7f2",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-striped-color": {
+          "value": "{colors.bs-black}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        }
+      },
+      "bs-table-active-color": {
+        "value": "{colors.theme.emphasis.bs-emphasis-color}",
+        "type": "color",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "secondary": {
+        "bs-table-bg": {
+          "value": "{colors.theme.secondary.bs-secondary-bg-subtle}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-border-color": {
+          "value": "#b5b6b7",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-color": {
+          "value": "{colors.bs-black}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-active-bg": {
+          "value": "#cbccce",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-striped-bg": {
+          "value": "#d7d8da",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-hover-bg": {
+          "value": "#d1d2d4",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-striped-color": {
+          "value": "{colors.bs-black}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-active-color": {
+          "value": "{colors.bs-black}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-hover-color": {
+          "value": "{colors.bs-black}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        }
+      },
+      "success": {
+        "bs-table-bg": {
+          "value": "{colors.theme.success.bs-success-bg-subtle}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-border-color": {
+          "value": "#a7b9b1",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-color": {
+          "value": "{colors.bs-black}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-active-bg": {
+          "value": "#bcd0c7",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-striped-bg": {
+          "value": "#c7dbd2",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-hover-bg": {
+          "value": "#c1d6cc",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-striped-color": {
+          "value": "{colors.bs-black}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-active-color": {
+          "value": "{colors.bs-black}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-hover-color": {
+          "value": "{colors.bs-black}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        }
+      },
+      "info": {
+        "bs-table-bg": {
+          "value": "{colors.theme.info.bs-info-bg-subtle}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-border-color": {
+          "value": "#a6c3ca",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-color": {
+          "value": "{colors.bs-black}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-active-bg": {
+          "value": "#badce3",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-striped-bg": {
+          "value": "#c5e8ef",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-hover-bg": {
+          "value": "#bfe2e9",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-striped-color": {
+          "value": "{colors.bs-black}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-active-color": {
+          "value": "{colors.bs-black}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-hover-color": {
+          "value": "{colors.bs-black}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        }
+      },
+      "warning": {
+        "bs-table-bg": {
+          "value": "{colors.theme.warning.bs-warning-bg-subtle}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-border-color": {
+          "value": "#ccc2a4",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-color": {
+          "value": "{colors.bs-black}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-active-bg": {
+          "value": "#e6dbb9",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-striped-bg": {
+          "value": "#f2e7c3",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-hover-bg": {
+          "value": "#ece1be",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-color 2": {
+          "value": "{colors.bs-black}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-color 3": {
+          "value": "{colors.bs-black}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-color 4": {
+          "value": "{colors.bs-black}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        }
+      },
+      "danger": {
+        "bs-table-bg": {
+          "value": "{colors.theme.danger.bs-danger-bg-subtle}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-border-color": {
+          "value": "#c6acae",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-color": {
+          "value": "{colors.bs-black}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-active-bg": {
+          "value": "#dfc2c4",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-striped-bg": {
+          "value": "#eccccf",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-hover-bg": {
+          "value": "#e5c7ca",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-striped-color": {
+          "value": "{colors.bs-black}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-active-color": {
+          "value": "{colors.bs-black}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-hover-color": {
+          "value": "{colors.bs-black}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        }
+      },
+      "light": {
+        "bs-table-bg": {
+          "value": "{colors.neutral.bs-gray-100}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-border-color": {
+          "value": "#c6c7c8",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-color": {
+          "value": "{colors.bs-black}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-active-bg": {
+          "value": "#dfe0e1",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-striped-bg": {
+          "value": "#ecedee",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-hover-bg": {
+          "value": "#e5e6e7",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-striped-color": {
+          "value": "{colors.bs-black}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-active-color": {
+          "value": "{colors.bs-black}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-hover-color": {
+          "value": "{colors.bs-black}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        }
+      },
+      "dark": {
+        "bs-table-bg": {
+          "value": "{colors.theme.dark.bs-dark}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-border-color": {
+          "value": "#4d5154",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-color": {
+          "value": "{colors.bs-white}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-active-bg": {
+          "value": "#373b3e",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-striped-bg": {
+          "value": "#2c3034",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-hover-bg": {
+          "value": "#323539",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-striped-color": {
+          "value": "{colors.bs-white}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-active-color": {
+          "value": "{colors.bs-white}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        },
+        "bs-table-hover-color": {
+          "value": "{colors.bs-white}",
+          "type": "color",
+          "parent": "Theme (bootstrap)/Dark",
+          "description": ""
+        }
+      },
+      "bs-table-striped-bg": {
+        "value": "#fcfcfc80",
+        "type": "color",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "bs-table-accent-bg": {
+        "value": "transparent",
+        "type": "text",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      }
+    },
+    "form-control": {
+      "color": {
+        "value": "{body.bs-body-color}",
+        "type": "color",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "background-color": {
+        "value": "{body.bs-body-bg}",
+        "type": "color",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "padding-y": {
+        "value": "{size.4}",
+        "type": "dimension",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ".75rem (12px)"
+      },
+      "padding-x": {
+        "value": "{size.7}",
+        "type": "dimension",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ".375rem (6px)"
+      },
+      "border-width": {
+        "value": "{border.width.1}",
+        "type": "dimension",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ".75rem (12px)"
+      },
+      "border-radius": {
+        "value": "{border.width.1}",
+        "type": "dimension",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ".75rem (12px)"
+      }
+    }
+  },
+  "body": {
+    "bs-body-bg": {
+      "value": "{colors.bs-white}",
+      "type": "color",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    },
+    "bs-body-color": {
+      "value": "{colors.neutral.bs-gray-900}",
+      "type": "color",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    },
+    "bs-body-bg-rgb": {
+      "value": "255, 255, 255",
+      "type": "text",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    },
+    "bs-body-color-rgb": {
+      "value": "33, 37, 41",
+      "type": "text",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    },
+    "bs-body-font-family": {
+      "value": "{font.cobank-font-ui}",
+      "type": "text",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    },
+    "bs-body-font-size": {
+      "value": "{size.8}",
+      "type": "dimension",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": "1rem"
+    },
+    "bs-body-font-weight": {
+      "value": "25rem",
+      "type": "dimension",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": "1rem"
+    },
+    "--bs-body-line-height": {
+      "value": "0.09375rem",
+      "type": "dimension",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": "1rem"
+    }
+  },
+  "text": {
+    "bs-highlight-color": {
+      "value": "{colors.neutral.bs-gray-900}",
+      "type": "color",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    },
+    "bs-highlight-bg": {
+      "value": "{colors.theme.warning.bs-warning-bg-subtle}",
+      "type": "color",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    },
+    "bs-code-color": {
+      "value": "{colors.bs-pink}",
+      "type": "color",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    },
+    "bs-heading-color": {
+      "value": "inherit",
+      "type": "text",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    }
+  },
+  "link": {
+    "bs-link-color": {
+      "value": "{text.link.color}",
+      "type": "color",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    },
+    "bs-link-hover-color": {
+      "value": "{colors.blue.70}",
+      "type": "color",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    },
+    "bs-link-color-rgb": {
+      "value": "13, 110, 253",
+      "type": "text",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    },
+    "bs-link-decoration": {
+      "value": "underline",
+      "type": "text",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    },
+    "bs-link-hover-color-rgb": {
+      "value": "10, 88, 202",
+      "type": "text",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    }
+  },
+  "border": {
+    "bs-border-color": {
+      "value": "{border.color.soft}",
+      "type": "color",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    },
+    "bs-border-style": {
+      "value": "solid",
+      "type": "text",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    },
+    "bs-border-color-translucent": {
+      "value": "rgba(0, 0, 0, .175)",
+      "type": "text",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    },
+    "bs-border-width": {
+      "value": "{size.1}",
+      "type": "dimension",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    },
+    "bs-border-radius": {
+      "value": "{radius.base}",
+      "type": "dimension",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    },
+    "bs-border-radius-sm": {
+      "value": "{radius.sm}",
+      "type": "dimension",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    },
+    "bs-border-radius-lg": {
+      "value": "{radius.lg}",
+      "type": "dimension",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    },
+    "bs-border-radius-xl": {
+      "value": "{radius.xl}",
+      "type": "dimension",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    },
+    "bs-border-radius-xxl": {
+      "value": "{radius.xl}",
+      "type": "dimension",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    },
+    "bs-border-radius-2xl": {
+      "value": "{radius.2xl}",
+      "type": "dimension",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    },
+    "bs-border-radius-pill": {
+      "value": "{radius.pill}",
+      "type": "dimension",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    }
+  },
+  "form-validation": {
+    "bs-form-valid-color": {
+      "value": "{colors.theme.success.bs-success}",
+      "type": "color",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    },
+    "bs-form-valid-border-color": {
+      "value": "{colors.theme.success.bs-success}",
+      "type": "color",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    },
+    "bs-form-invalid-color": {
+      "value": "{colors.theme.danger.bs-danger}",
+      "type": "color",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    },
+    "bs-form-invalid-border-color": {
+      "value": "{colors.theme.danger.bs-danger}",
+      "type": "color",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    }
+  },
+  "font": {
+    "bs-font-sans-serif": {
+      "value": "system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", \"Liberation Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "type": "text",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    },
+    "--bs-font-monospace": {
+      "value": "SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace",
+      "type": "text",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    }
+  },
+  "gradient": {
+    "bs-gradient": {
+      "value": "linear-gradient(180deg, rgba(255, 255, 255, .15), rgba(255, 255, 255, 0))",
+      "type": "text",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    }
+  },
+  "box-shadow": {
+    "bs-box-shadow": {
+      "value": "0 .5rem 1rem rgba(0, 0, 0, .15)",
+      "type": "text",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    },
+    "bs-box-shadow-sm": {
+      "value": "0 .125rem .25rem rgba(0, 0, 0, .075)",
+      "type": "text",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    },
+    "bs-box-shadow-lg": {
+      "value": "0 1rem 3rem rgba(0, 0, 0, .175)",
+      "type": "text",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    },
+    "bs-box-shadow-inset": {
+      "value": "inset 0 1px 2px rgba(0, 0, 0, .075)",
+      "type": "text",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    }
+  },
+  "focus": {
+    "bs-focus-ring-opacity": {
+      "value": ".25",
+      "type": "text",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    },
+    "bs-focus-ring-color": {
+      "value": "rgba(13, 110, 253, .25)",
+      "type": "text",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    },
+    "bs-focus-ring-width": {
+      "value": "{size.3}",
+      "type": "dimension",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ".25rem (4px)"
+    }
+  },
+  "gutter": {
+    "bs-gutter-x": {
+      "value": "{spacing.4}",
+      "type": "dimension",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    },
+    "bs-gutter-y": {
+      "value": "{spacing.0}",
+      "type": "dimension",
+      "parent": "Theme (bootstrap)/Dark",
+      "description": ""
+    }
+  },
+  "spacing": {
+    "padding": {
+      "p-0": {
+        "value": "{spacing.0}",
+        "type": "dimension",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "p-1": {
+        "value": "{spacing.1}",
+        "type": "dimension",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "p-2": {
+        "value": "{spacing.2}",
+        "type": "dimension",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "p-3": {
+        "value": "{spacing.3}",
+        "type": "dimension",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "p-4": {
+        "value": "{spacing.4}",
+        "type": "dimension",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "p-5": {
+        "value": "{spacing.5}",
+        "type": "dimension",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      }
+    },
+    "margin": {
+      "m-0": {
+        "value": "{spacing.0}",
+        "type": "dimension",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "m-1": {
+        "value": "{spacing.1}",
+        "type": "dimension",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "m-2": {
+        "value": "{spacing.2}",
+        "type": "dimension",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "m-3": {
+        "value": "{spacing.3}",
+        "type": "dimension",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "m-4": {
+        "value": "{spacing.4}",
+        "type": "dimension",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      },
+      "m-5": {
+        "value": "{spacing.5}",
+        "type": "dimension",
+        "parent": "Theme (bootstrap)/Dark",
+        "description": ""
+      }
+    }
+  }
+}

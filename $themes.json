@@ -1,17 +1,1 @@
-[
-  {
-    "id": "d125d698f6320d8b32ea613fd2277387d3631178",
-    "name": "Harvest Hub",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "core": "enabled",
-      "light": "enabled",
-      "dark": "enabled",
-      "Bootstrap/Light": "enabled",
-      "Bootstrap/Dark": "enabled",
-      "CoBank/Light": "enabled",
-      "CoBank/Dark": "enabled",
-      "Component/Button": "enabled"
-    }
-  }
-]
+[]

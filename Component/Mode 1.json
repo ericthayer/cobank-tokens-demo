@@ -1,0 +1,284 @@
+{
+  "button": {
+    "color": {
+      "value": "{components.button.bs-btn-color}",
+      "type": "color",
+      "parent": "Component/Mode 1",
+      "description": ""
+    },
+    "primary": {
+      "color": {
+        "value": "{components.button.primary.bs-btn-color}",
+        "type": "color",
+        "parent": "Component/Mode 1",
+        "description": ""
+      },
+      "bg": {
+        "value": "{components.button.primary.bs-btn-bg}",
+        "type": "color",
+        "parent": "Component/Mode 1",
+        "description": ""
+      },
+      "border-color": {
+        "value": "{components.button.primary.bs-btn-border-color}",
+        "type": "color",
+        "parent": "Component/Mode 1",
+        "description": ""
+      },
+      "hover-bg": {
+        "value": "{components.button.primary.bs-btn-hover-bg}",
+        "type": "color",
+        "parent": "Component/Mode 1",
+        "description": ""
+      },
+      "hover-color": {
+        "value": "{components.button.primary.bs-btn-hover-color}",
+        "type": "color",
+        "parent": "Component/Mode 1",
+        "description": ""
+      },
+      "active-bg": {
+        "value": "{components.button.primary.bs-btn-active-bg}",
+        "type": "color",
+        "parent": "Component/Mode 1",
+        "description": ""
+      },
+      "active-color": {
+        "value": "{components.button.primary.bs-btn-active-color}",
+        "type": "color",
+        "parent": "Component/Mode 1",
+        "description": ""
+      },
+      "disabled-bg": {
+        "value": "{components.button.primary.bs-btn-disabled-bg}",
+        "type": "color",
+        "parent": "Component/Mode 1",
+        "description": ""
+      },
+      "disabled-color": {
+        "value": "{components.button.primary.bs-btn-disabled-color}",
+        "type": "color",
+        "parent": "Component/Mode 1",
+        "description": ""
+      },
+      "focus-border-color": {
+        "value": "{components.button.primary.bs-btn-active-bg}",
+        "type": "color",
+        "parent": "Component/Mode 1",
+        "description": ""
+      },
+      "disabled-border-color": {
+        "value": "{components.button.primary.bs-btn-disabled-border-color}",
+        "type": "color",
+        "parent": "Component/Mode 1",
+        "description": ""
+      },
+      "hover-border-color": {
+        "value": "{components.button.primary.bs-btn-hover-border-color}",
+        "type": "color",
+        "parent": "Component/Mode 1",
+        "description": ""
+      },
+      "active-border-color": {
+        "value": "{components.button.primary.bs-btn-active-border-color}",
+        "type": "color",
+        "parent": "Component/Mode 1",
+        "description": ""
+      },
+      "focus-shadow": {
+        "value": "{components.button.primary.bs-btn-focus-box-shadow}",
+        "type": "text",
+        "parent": "Component/Mode 1",
+        "description": ""
+      },
+      "focus-shadow-rgb": {
+        "value": "{components.button.primary.bs-btn-focus-shadow-rgb}",
+        "type": "text",
+        "parent": "Component/Mode 1",
+        "description": ""
+      },
+      "active-shadow": {
+        "value": "{components.button.primary.bs-btn-active-shadow}",
+        "type": "text",
+        "parent": "Component/Mode 1",
+        "description": ""
+      }
+    },
+    "bg": {
+      "value": "{colors.theme.dark.bs-dark-bg-subtle}",
+      "type": "color",
+      "parent": "Component/Mode 1",
+      "description": ""
+    },
+    "border-color": {
+      "value": "{colors.theme.dark.bs-dark-bg-subtle}",
+      "type": "color",
+      "parent": "Component/Mode 1",
+      "description": ""
+    },
+    "hover-border-color": {
+      "value": "{components.button.bs-btn-border-color}",
+      "type": "color",
+      "parent": "Component/Mode 1",
+      "description": ""
+    },
+    "secondary": {
+      "bg": {
+        "value": "{components.button.secondary.bs-btn-bg}",
+        "type": "color",
+        "parent": "Component/Mode 1",
+        "description": ""
+      },
+      "border-color": {
+        "value": "{components.button.secondary.bs-btn-border-color}",
+        "type": "color",
+        "parent": "Component/Mode 1",
+        "description": ""
+      },
+      "color": {
+        "value": "{components.button.secondary.bs-btn-color}",
+        "type": "color",
+        "parent": "Component/Mode 1",
+        "description": ""
+      },
+      "hover-bg": {
+        "value": "{components.button.secondary.bs-btn-hover-bg}",
+        "type": "color",
+        "parent": "Component/Mode 1",
+        "description": ""
+      },
+      "hover-color": {
+        "value": "{components.button.secondary.bs-btn-hover-color}",
+        "type": "color",
+        "parent": "Component/Mode 1",
+        "description": ""
+      },
+      "focus-border-color": {
+        "value": "{components.button.secondary.bs-btn-focus-border-color}",
+        "type": "color",
+        "parent": "Component/Mode 1",
+        "description": ""
+      },
+      "active-bg": {
+        "value": "{components.button.secondary.bs-btn-active-bg}",
+        "type": "color",
+        "parent": "Component/Mode 1",
+        "description": ""
+      },
+      "active-color": {
+        "value": "{components.button.secondary.bs-btn-active-color}",
+        "type": "color",
+        "parent": "Component/Mode 1",
+        "description": ""
+      },
+      "disabled-bg": {
+        "value": "{components.button.primary.bs-btn-disabled-bg}",
+        "type": "color",
+        "parent": "Component/Mode 1",
+        "description": ""
+      },
+      "disabled-border-color": {
+        "value": "{components.button.primary.bs-btn-disabled-border-color}",
+        "type": "color",
+        "parent": "Component/Mode 1",
+        "description": ""
+      },
+      "disabled-color": {
+        "value": "{components.button.primary.bs-btn-disabled-color}",
+        "type": "color",
+        "parent": "Component/Mode 1",
+        "description": ""
+      },
+      "hover-border-color": {
+        "value": "{components.button.secondary.bs-btn-hover-border-color}",
+        "type": "color",
+        "parent": "Component/Mode 1",
+        "description": ""
+      },
+      "focus-box-shadow": {
+        "value": "{components.button.secondary.bs-btn-focus-box-shadow}",
+        "type": "text",
+        "parent": "Component/Mode 1",
+        "description": ""
+      },
+      "focus-shadow-rgb": {
+        "value": "{components.button.secondary.bs-btn-focus-shadow-rgb}",
+        "type": "text",
+        "parent": "Component/Mode 1",
+        "description": ""
+      },
+      "active-shadow": {
+        "value": "{components.button.secondary.bs-btn-active-shadow}",
+        "type": "text",
+        "parent": "Component/Mode 1",
+        "description": ""
+      }
+    },
+    "font": {
+      "value": "{font.cobank-font-ui}",
+      "type": "text",
+      "parent": "Component/Mode 1",
+      "description": ""
+    },
+    "shadow": {
+      "value": "{components.button.bs-btn-box-shadow}",
+      "type": "text",
+      "parent": "Component/Mode 1",
+      "description": ""
+    },
+    "focus-shadow": {
+      "value": "{components.button.bs-btn-focus-box-shadow}",
+      "type": "text",
+      "parent": "Component/Mode 1",
+      "description": ""
+    },
+    "border-size": {
+      "value": "{border.width.1}",
+      "type": "dimension",
+      "parent": "Component/Mode 1",
+      "description": ""
+    },
+    "font-size": {
+      "value": "{size.8}",
+      "type": "dimension",
+      "parent": "Component/Mode 1",
+      "description": ""
+    },
+    "font-weight": {
+      "value": "{components.button.bs-btn-font-weight}",
+      "type": "dimension",
+      "parent": "Component/Mode 1",
+      "description": ""
+    },
+    "radius": {
+      "value": "{radius.base}",
+      "type": "dimension",
+      "parent": "Component/Mode 1",
+      "description": ""
+    },
+    "disabled": {
+      "value": "0.04062499850988388rem",
+      "type": "dimension",
+      "parent": "Component/Mode 1",
+      "description": ""
+    },
+    "line-height": {
+      "value": "{components.button.bs-btn-line-height}",
+      "type": "dimension",
+      "parent": "Component/Mode 1",
+      "description": ""
+    },
+    "padding-x": {
+      "value": "{components.button.bs-btn-padding-x}",
+      "type": "dimension",
+      "parent": "Component/Mode 1",
+      "description": ""
+    },
+    "padding-y": {
+      "value": "{components.button.bs-btn-padding-y}",
+      "type": "dimension",
+      "parent": "Component/Mode 1",
+      "description": ""
+    }
+  }
+}
